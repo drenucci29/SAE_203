@@ -1,0 +1,78 @@
+.GrandTitre1 {
+  color: white;
+  border: solid;
+  border-color: white;
+  border-width: medium;
+  border-radius: 5px;
+  background-color: grey;
+}
+
+.Div1 {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
+
+.Info1 {
+  color: white;
+}
+
+.Info2 {
+  color: white;
+}
+
+.Info3 {
+  color: white;
+}
+
+body {
+  background-color: #282b31;
+}
+
+.Projets-texte {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
+
+.Div2 {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
+
+.Lien-Brandu {
+  color: white;
+}
+
+.Lien-Brandu:hover {
+  color: red;
+}
+
+.Div3 {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
+
+.Affiche {
+  color: white;
+}
+
+.Affiche:hover {
+  color: red;
+}
+
+.Div4 {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
+
+.Fruit {
+  color: white;
+}
+
+.Fruit:hover {
+  color: red;
+}
